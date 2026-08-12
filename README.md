@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**wendelnoevo-hub/wendelnoevo-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Wendel Ribeiro, sou Programador Front End, atualmente estou aprendendo e criando projetos com:
+<br>
+<br>
+<ul>
+<li>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" /> 
+<li>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" /> 
+<li>  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-java" />
+<li>  <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="logo-react" /> </li>
+  </ul>
 
-Here are some ideas to get you started:
+[![Wendel stats](https://github-stats-extended.vercel.app/api?username=wendelnoevo-hub
+)](https://github.com/stats-organization/github-stats-extended)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
